@@ -1,128 +1,134 @@
-<a name="Awesome-Books-Solo"></a>
-<div align="center">
-  <br/>
-  <h3><b>Awesome-Books-Solo</b></h3>
-</div>
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-
-  - [🛠 Built With](#built-with)
+<a name="readme-top"></a>
+# :green_book: Table of Contents
+- [:book: Awesome Book](#-Awesome-a-nameabout-projecta)
+  - [:hammer_and_wrench: Built With ](#-built-with-a-namebuilt-witha)
+    - [Tech Stack ](#tech-stack-a-nametech-stacka)
+    - [Key Features ](#key-features-a-namekey-featuresa)
+  - [:computer: Getting Started ](#-getting-started-a-namegetting-starteda)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [:busts_in_silhouette: Authors ](#-authors-a-nameauthorsa)
+  - [:telescope: Future Features ](#-future-features-a-namefuture-featuresa)
+  - [:star:️ Show your support ](#️-show-your-support-a-namesupporta)
+  - [:handshake: Contributing ](#-contributing-a-namecontributinga)
+  - [:pray: Acknowledgments ](#-acknowledgments-a-nameacknowledgementsa)
+  - [:memo: License ](#-license-a-namelicensea)
   
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
-
-
-# 📖 [Awesome_Books]<a name="Awesome_Books">Awesome_Books</a>
-
-This is a Awesome-Books  project.
-"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
-
-
-## 🛠 Built With <a name="built-with"></a>
-
+   # :book: Awesome-Book <a name="about-project"></a>
+  - This website shows a sneak peek of what I have done, projects developed and deployed, and what I can do to your projects! Developed with   HTML, CSS, and JavaScript
+## :hammer_and_wrench: Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
-
 - HTML
 - CSS
 - JAVASCRIPT
-
-
-### Key Features <a name="key-features"></a>
-
-- Awesome_Books built with HTML CSS and javascript
-- Dynamiccally loading with javascript.
-- Uses Local Storage as a database
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://coderacheal.github.io/Awesome-Books-Solo/)
-
-
-## 💻 Getting Started <a name="getting-started"></a>
-
- Get your pc.
- Clone this project to your local machine. 
-
-To get a local copy up and running, follow these steps.
-
-In order to run this project you need:
-live server.
-
-### Setup
-
-Clone this repository to your desired folder:
-https://github.com/coderacheal/Awesome-Books-Solo
-
-### Install
-
-Install this project with:
-cd to Awesome-Books-Solo.
-
-### Run tests
-
-To run tests, run the following command:
-npm test
-
-
-## 👥 Author(s)<a name="authors"></a>
-
-
-👤 **Author**
-
-- GitHub [coderacheal](https://github.com/coderacheal)
-
-
-
-
-## Future Features<a name="future-features"></a>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
+ ### Key Features <a name="key-features"></a>
+- **DOM MANIPULATION**
+- **JAVASCRIPT OBJECT**
+- **JAVASCRIPT CLASSES**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Add a book added modal or pop-up when a new book is added
-- Add a book removed modal or pop-up when a book is removed
- 
+## :computer: Getting Started <a name="getting-started"></a>
+To get a local copy up and running, follow these steps.
 
+### Prerequisites
+In order to run this project you need the following:
+- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
+- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
+- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
+- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+- [A terminal](https://code.visualstudio.com/docs/terminal/basics).
 
-## ⭐️ Show your support<a name="support"></a>
+### Setup
+Clone this repository to your desired folder or download the Zip folder:
+```
+git clone https://github.com/kkmanuu/Awesome-Books
+```
+- Navigate to the location of the folder in your machine
 
-To show your support, give this repository a star⭐️.
+### Install
+To install all dependencies, run:
+```
+npm install
+```
 
+### Usage
+To run the project, follow these instructions:
+- After Cloning this repo to your local machine.
+- Open the `index.html` in your browser.
 
-## 🤝 Contributing
+### Run tests
+To run tests, run the following command:
+- Track HTML linter errors run:
+```
+npx hint .
+```
+- Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+- Track JavaScript linter errors run:
+```
+npx eslint .
+```
 
-Contributions, issues, and feature requests are welcome!
+### Usage
+To run the project, follow these instructions:
+- After Cloning this repo to your local machine.
+- Open the `index.html` in your browser.
 
-Feel free to check the [issues page](../../issues/).
+### Run tests
+To run tests, run the following command:
+- Track HTML linter errors run:
+```
+npx hint .
+```
+- Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
+- Track JavaScript linter errors run:
+```
+npx eslint .
+```
 
+### Deployment <a name="deployment"></a>
+- Deployed with github pages
+- For more information about publishing sources, see "[About GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)".
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+## :busts_in_silhouette: Authors <a name="authors"></a>
+:bust_in_silhouette: **Emmanuel Kipngeno**
+- GitHub: [@githubhandle](https://github.com/kkmanuu)
+- Twitter: [@twitterhandle](https://twitter.com/kkmanuu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-kipngeno-879370242/)
 
-Give a ⭐️ if you like this project!
+:bust_in_silhouette: **Binyam Tegene**
+- GitHub: [@githubhandle](https://github.com/Log-benjamin?tab=repositories)
+- Twitter: [@twitterhandle](https://twitter.com/@binyam_tegene)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/binyam-tegene-4b77ab265)
 
+## :telescope: Future Features <a name="future-features"></a>
+- [ ] **JAVASCRIPT OBJECT**
+- [ ] **DOM MANIPULATION**
+- [ ] **JAVASCRIPT CLASSES**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## :star:️ Show your support <a name="support"></a>
+If you like this project give start.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- I would like to thank the Microverse student community
+## :handshake: Contributing <a name="contributing"></a>
+Contributions, issues [page issues](https://github.com/kkmanuu/My-Portfolio/issues), and feature requests are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## :pray: Acknowledgments <a name="acknowledgements"></a>
+I would like to thank  Microverse for this opportunity.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-This project is [MIT](./LICENSE) licensed.
-
-
-
-
+## :memo: License <a name="license"></a>
+This project is [MIT](./LICENSE.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
